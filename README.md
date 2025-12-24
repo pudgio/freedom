@@ -1,3 +1,3 @@
-An example mod for Necesse.
+A gamerule inspired mod for Necesse.
 
-Check out the [modding wiki page](https://necessewiki.com/Modding) for more.
+https://steamcommunity.com/sharedfiles/filedetails/?id=3630492851
